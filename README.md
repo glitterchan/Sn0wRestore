@@ -1,4 +1,7 @@
 # Sn0wRestore
+
+**Note: Don't Use This Yet**
+
 Unlock your device's full potential! Works on all versions iOS 17.0+
 
 This uses the sparserestore exploit to write to files outside of the intended restore location, like mobilegestalt.
