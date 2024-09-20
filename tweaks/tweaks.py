@@ -34,5 +34,5 @@ tweaks = {
                      min_version=Version("18.0")),
     "PhotoUI": FeatureFlagTweak("Enable Old Photo UI", flag_category='Photos', flag_names=['Lemonade'], is_list=False, inverted=True, min_version=Version("18.0")),
     "AI": FeatureFlagTweak("Enable Apple Intelligence", flag_category='SpringBoard', flag_names=['Domino', 'SuperDomino'], min_version=Version("18.1")),
-    "32-bit Apps": MobileGestaltTweak("Toggle 32-bit Apps", "6PkKE66MnKm0yiOIQLknEg"
+    "32-bit Apps": MobileGestaltTweak("Toggle 32-bit Apps", "6PkKE66MnKm0yiOIQLknEg")
 }
